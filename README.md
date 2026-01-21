@@ -1,0 +1,3 @@
+```
+wget -O inst.sh "
+```
